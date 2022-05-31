@@ -11,7 +11,7 @@ Data is collected from the weather website "wunderground".
 **Data Processing:**
 The collected data consisted of additional rows, headers. All these are formatted using Microsoft Excel Spreadsheet and the individual month data are appended in to  a single file.
 
-**Tools Used**
+**Tools Used:**
 Data formatting: Microsoft Excel
 Visualization: Power BI
 
