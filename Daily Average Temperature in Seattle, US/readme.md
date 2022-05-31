@@ -1,3 +1,4 @@
+# Daily Average Temperature in Seattle
 
 This visual captures daily average temperature in Seattle, US for the time period of May, 2021 to Apr, 2022. 
 
