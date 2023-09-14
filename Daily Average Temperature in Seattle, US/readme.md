@@ -13,7 +13,7 @@ The collected data consisted of additional rows, headers. All these are formatte
 
 **Tools Used:**
 
-Data Processing: Microsoft Excel
+Data Processing: SQL, Microsoft Excel
 
 Visualization: Power BI
 
