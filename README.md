@@ -1,5 +1,5 @@
 # Data-Projects
 
-This folder contains all the data projects
+This is a repository for all small data projects
 
-All details about problem statement, data collection, data processing and tools used are included in corresponding readme files
+Each indiduval fiolders will provide details on problem statement, data collection, data processing and tools used 
